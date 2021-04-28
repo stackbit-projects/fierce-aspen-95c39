@@ -1,7 +1,7 @@
 ---
 title: Valutazione dei Rischi
 date: '2021-04-28'
-draft: false
+draft: true
 featured: true
 weight: 1
 ---

@@ -4,9 +4,8 @@ date: '2021-04-28'
 layout: Contatti
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-| Day       | Opening Hours   |
+| Giorno     | Orario  |
 | --------- | --------------- |
 | Tuesday   | 8:30am - 5:00pm |
 | Wednesday | 8:30am - 5:00pm |
